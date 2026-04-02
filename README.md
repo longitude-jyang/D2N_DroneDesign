@@ -1,5 +1,5 @@
 # D2N_DroneDesign
-Digital Design Network+ Case Study 1 - Sensitivity Guided Design with LLM Acceleration
+Digital Design Network+ Case Study 1 - Sensitivity Guided Design with LLM Acceleration. Below are snapshots from the [demo](AILabwithTEDS.mp4).  
 
 
 ## Initial Design: 
