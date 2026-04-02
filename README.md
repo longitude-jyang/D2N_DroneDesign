@@ -4,11 +4,11 @@ Digital Design Network+ Case Study 1 - Sensitivity Guided Design with LLM Accele
 
 ## Initial Design: 
 
-<img src= "initialPf.png" width = "800">
+<img src= "initialPf.png" width = "1000">
 
 ## Updated Design with AI: 
 
-<img src= "updatePf.png" width = "800">
+<img src= "updatePf.png" width = "1000">
 
 To implement the numerical case studies, you need to download the sensitivity code of [TEDS](/../../../../longitude-jyang/TEDS-ToolboxEngineeringDesignSensitivity) from a different repository. The three cases studies call TEDS for the sensitivity analysis. 
 
