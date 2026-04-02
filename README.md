@@ -3,14 +3,13 @@ Digital Design Network+ Case Study 1 - Sensitivity Guided Design with LLM Accele
 
 
 ## Initial Design: 
-
-<img src= "initialPf.png" width = "1000">
+AI agent runs the design at nominal design point and found that the failure probability is too high: 
+<img src= "InitialPf.png" width = "1000">
 
 ## Updated Design with AI: 
-
+AI uses the information given by  [TEDS](/../../../../longitude-jyang/TEDS-ToolboxEngineeringDesignSensitivity)  and update the design, where only one parameter is updated, and the failure probabiliy is much improved: 
 <img src= "updatePf.png" width = "1000">
 
-To implement the numerical case studies, you need to download the sensitivity code of [TEDS](/../../../../longitude-jyang/TEDS-ToolboxEngineeringDesignSensitivity) from a different repository. The three cases studies call TEDS for the sensitivity analysis. 
 
 
 
