@@ -1,6 +1,8 @@
 # D2N_DroneDesign
 Digital Design Network+ Case Study 1 - Sensitivity Guided Design with LLM Acceleration. Below are snapshots from the [demo](AILabwithTEDS.mp4).  
 
+## Case Study: 
+<img src= "WingGustAnalysis.png" width = "1000">
 
 ## Initial Design: 
 AI agent runs the design at nominal design point and found that the failure probability is too high: 
